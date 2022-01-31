@@ -1,4 +1,4 @@
-from actions.add import creo_contacto
+from commands.add import creo_contacto
 import sys
 import os
 
